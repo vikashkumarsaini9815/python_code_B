@@ -1,0 +1,10 @@
+crete vehicals :-
+{"car_type":"bmw","registration":"1234","feature":["seat bleat", "air bags"] }
+
+createuser :-
+
+{"user_name":"rakesh ", "contact": 9890012431, "Email":"vicky9999@gmail.com" }
+
+bookingcar :- 
+
+{"car_type":"bmw", "feature":["seat bleat", "air bags"] }
